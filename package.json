@@ -1,0 +1,19 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "practice application ",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "npm index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "maniteja",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
